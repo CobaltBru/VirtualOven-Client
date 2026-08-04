@@ -86,7 +86,7 @@ VirtualOven은 게시글 작성 시각을 라이브 시작 시각과 비교해 �
 ## 사용법
 
 1. 데스크톱 Chrome에서 종료된 공개 라이브 또는 Premiere 아카이브를 엽니다.
-2. 영상 아래의 <img width="24" height="24" alt="VirtualOven 버튼" src="./assets/brand/virtualoven-icon-32.png" /> 버튼을 누릅니다.
+2. 영상 아래의 <img width="24" height="24" alt="VirtualOven 버튼" src="./assets/image/virtualoven-button.svg" /> 버튼을 누릅니다.
 3. 분석이 끝나면 당시 게시글이 현재 재생 시각에 맞춰 플로팅 창에 나타납니다.
 4. 우측 상단의 설정 버튼에서 갤러리, 싱크와 화면 스타일을 조정합니다.
 5. 게시글 말풍선을 누르면 디시인사이드 원문을 확인할 수 있습니다.
