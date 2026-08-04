@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <defs>
+    <clipPath id="play-mark">
+      <path d="M9.1 2.5C6.8 2.2 4.7 4.1 4.8 6.4l1.1 20.2c.1 2.4 2.8 3.8 4.9 2.5l16.6-10.3c2.4-1.5 2.3-5-.2-6.4L11.6 3.2c-.8-.5-1.6-.7-2.5-.7Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#play-mark)">
+    <path d="M0 0h32v32H0z" fill="#39BFF3"/>
+    <path d="m4.6 5.8 4.7-3.3 3.9 9.5-8.1-1.6Z" fill="#60D5FB"/>
+    <path d="m9.3 2.5 18.1 9.9-7 1.2-7.2-1.6Z" fill="#C9F5FF"/>
+    <path d="m5.1 10.4 8.1 1.6-1.6 6.3-6 4Z" fill="#169FE5"/>
+    <path d="m13.2 12 7.2-1.5 1.9 6.5-10.7 1.3Z" fill="#8CE5FB"/>
+    <path d="m20.4 10.5 7 1.9.8 4.1-5.9.5Z" fill="#C3F3FC"/>
+    <path d="m22.3 17 5.9-.5-.8 2.2-3.7 2.4Z" fill="#55CDF5"/>
+    <path d="m5.6 22.3 6-4-.3 10.7-5.3-2Z" fill="#72DCF8"/>
+    <path d="m11.6 18.3 10.7-1.3-4.8 8-6.2 4Z" fill="#1BA8EE"/>
+    <path d="m22.3 17 1.4 4.1-6.2 3.9Z" fill="#0572D3"/>
+    <path d="M9.3 2.5 13.2 12 5.1 10.4M13.2 12l7.2-1.5 1.9 6.5 5.9-.5M13.2 12l9.1 5 1.4 4.1M13.2 12l-1.6 6.3-6 4M11.6 18.3 22.3 17 17.5 25M11.6 18.3 11.3 29M11.6 18.3l5.9 6.7" stroke="#fff" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="13.2" cy="12" r=".65" fill="#fff"/>
+    <circle cx="22.3" cy="17" r=".65" fill="#fff"/>
+    <circle cx="11.6" cy="18.3" r=".65" fill="#fff"/>
+  </g>
+  <path d="M9.1 2.5C6.8 2.2 4.7 4.1 4.8 6.4l1.1 20.2c.1 2.4 2.8 3.8 4.9 2.5l16.6-10.3c2.4-1.5 2.3-5-.2-6.4L11.6 3.2c-.8-.5-1.6-.7-2.5-.7Z" stroke="#0759A8" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M9.1 2.5C6.8 2.2 4.7 4.1 4.8 6.4l1.1 20.2c.1 2.4 2.8 3.8 4.9 2.5l16.6-10.3c2.4-1.5 2.3-5-.2-6.4L11.6 3.2c-.8-.5-1.6-.7-2.5-.7Z" stroke="#36BDF4" stroke-width="2.25" stroke-linejoin="round"/>
+  <path d="M9.1 2.5C6.8 2.2 4.7 4.1 4.8 6.4l1.1 20.2c.1 2.4 2.8 3.8 4.9 2.5l16.6-10.3c2.4-1.5 2.3-5-.2-6.4L11.6 3.2c-.8-.5-1.6-.7-2.5-.7Z" stroke="#fff" stroke-width="1.35" stroke-linejoin="round"/>
+  <path d="M1.5 17.2c2.7 3.5 5.8 5.2 8.9 6.3M2.2 20.7c1.7 2.5 4 3.9 6.5 4.8" stroke="#36BDF4" stroke-width="2.35" stroke-linecap="round"/>
+  <path d="M1.5 17.2c2.7 3.5 5.8 5.2 8.9 6.3M2.2 20.7c1.7 2.5 4 3.9 6.5 4.8" stroke="#fff" stroke-width="1.15" stroke-linecap="round"/>
+  <path d="M.5 30.8c1.8-2 4.6-2.7 7-1.6.7-2.3 2.8-3.8 5.2-3.3.8-2.4 3-4 5.5-3.7 1.8.2 3.3 1.5 3.9 3.1 2.4-.8 4.9.5 5.8 2.8 1.7-.3 3.4.6 4.1 2.2V32H.5v-1.2Z" fill="#F8FDFF" stroke="#0872C5" stroke-width="1.05" stroke-linejoin="round"/>
+  <path d="M0 30.5c3.2-.8 6-.5 8.4.4 1.9-1.2 4.4-1.2 6.3 0 2.1-1.4 5-1.5 7.2-.2 2.9-1.1 6.4-.8 10.1.6V32H0v-1.5Z" fill="#BDEEFF"/>
+  <path d="M3.5 29.4c1.4-.5 2.8-.4 4.1.2M10.1 27.2c1-.5 2-.5 3-.1M22.7 27.1c1.2-.4 2.4-.2 3.3.5" stroke="#DDF8FF" stroke-width=".9" stroke-linecap="round"/>
+</svg>
