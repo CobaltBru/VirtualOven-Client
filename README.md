@@ -32,7 +32,7 @@
 VirtualOven은 종료된 공개 YouTube 라이브 또는 Premiere 아카이브를 재생할 때, 당시 디시인사이드에 올라온 중계 게시글을 영상 시각에 맞춰 보여주는 Windows용 도구입니다.
 
 > [!IMPORTANT]
-> Chrome 확장프로그램은 현재 Chrome Web Store 검토 중입니다. 검토가 승인되면 Windows 클라이언트 `0.1.0`과 함께 배포를 시작합니다. 기존 `0.0.x` Release는 자동 업데이트 흐름을 검증하기 위한 테스트 빌드이므로 일반 사용을 권장하지 않습니다.
+> Chrome 확장프로그램 0.1.3이 정식 릴리즈되었습니다. 기존에 설치했던 확장프로그램을 삭제하고 [Chrome Web Store](https://chromewebstore.google.com/detail/virtualoven/hipjbaibdcfihbhohnlnpgegmanlhggj) 에서 재설치 해주세요.
 
 ## 주요 기능
 
@@ -119,7 +119,7 @@ VirtualOven은 게시글 작성 시각을 라이브 시작 시각과 비교해 �
 
 ## 업데이트
 
-클라이언트는 시작 직후와 실행 중에 새 정식 Release를 확인합니다. 여러 창이 열려 있어도 PC 전체의 GitHub 확인은 24시간에 최대 한 번만 수행하며, `정보 > 업데이트 확인`을 누르면 이 간격과 관계없이 즉시 확인할 수 있습니다. Draft와 prerelease는 자동 업데이트 대상에서 제외됩니다.
+클라이언트는 시작 직후와 실행 중에 새 정식 Release를 확인합니다. 여러 창이 열려 있어도 PC 전체의 GitHub 확인은 30분에 한 번만 수행하며, `정보 > 업데이트 확인`을 누르면 이 간격과 관계없이 즉시 확인할 수 있습니다. Draft와 prerelease는 자동 업데이트 대상에서 제외됩니다.
 
 설치 전에는 Ed25519로 서명된 업데이트 정보와 설치 파일의 GitHub digest, 파일 크기와 SHA-256을 모두 검증합니다. 검증에 실패하면 실행 중인 클라이언트와 기존 설치를 변경하지 않습니다.
 
