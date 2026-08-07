@@ -16,7 +16,6 @@
 <p align="center">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square&logo=windows11&logoColor=white" />
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google_Chrome-106%2B-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-  <img alt="Beta" src="https://img.shields.io/badge/Status-Beta-F59E0B?style=flat-square" />
   <img alt="No Analytics" src="https://img.shields.io/badge/Analytics-None-2EA44F?style=flat-square" />
 </p>
 
