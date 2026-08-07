@@ -32,7 +32,7 @@
 VirtualOven은 종료된 공개 YouTube 라이브 또는 Premiere 아카이브를 재생할 때, 당시 디시인사이드에 올라온 중계 게시글을 영상 시각에 맞춰 보여주는 Windows용 도구입니다.
 
 > [!IMPORTANT]
-> Chrome 확장프로그램 0.1.3이 정식 릴리즈되었습니다. 기존에 설치했던 확장프로그램을 삭제하고 [Chrome Web Store](https://chromewebstore.google.com/detail/virtualoven/hipjbaibdcfihbhohnlnpgegmanlhggj) 에서 재설치 해주세요.
+> Chrome 확장프로그램 1.0.0이 정식 릴리즈되었습니다. 기존에 설치했던 확장프로그램을 삭제하고 [Chrome Web Store](https://chromewebstore.google.com/detail/virtualoven/hipjbaibdcfihbhohnlnpgegmanlhggj) 에서 재설치 해주세요.
 
 ## 주요 기능
 
@@ -90,6 +90,12 @@ VirtualOven은 게시글 작성 시각을 라이브 시작 시각과 비교해 �
 3. 분석이 끝나면 당시 게시글이 현재 재생 시각에 맞춰 플로팅 창에 나타납니다.
 4. 우측 상단의 설정 버튼에서 갤러리, 싱크와 화면 스타일을 조정합니다.
 5. 게시글 말풍선을 누르면 디시인사이드 원문을 확인할 수 있습니다.
+
+## 탄막 사용법
+
+1. 유튜브 영상 하단 재생바의 <img width="24" height="24" alt="VirtualOven 버튼" src="./assets/image/virtualoven-button.svg" /> 버튼을 누릅니다.
+2. 탄막을 보고 싶으면 탄막 토글버튼을 On 합니다.
+3. 게시글을 불러오느라 1분정도 기다려야 할 수도 있습니다.
 
 다른 YouTube 탭에서도 버튼을 누르면 탭마다 별도의 창이 열립니다. 같은 탭에서 다시 누르면 기존 창이 현재 재생 위치에 맞춰 다시 동기화됩니다.
 
