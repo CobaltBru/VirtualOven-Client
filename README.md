@@ -28,6 +28,15 @@
   />
 </p>
 
+<p align="center">
+  <img
+    width="564"
+    height="321"
+    alt="VirtualOven 탄막"
+    src="./assets/image/virtualoven-preview2.webp"
+  />
+</p>
+
 VirtualOven은 종료된 공개 YouTube 라이브 또는 Premiere 아카이브를 재생할 때, 당시 디시인사이드에 올라온 중계 게시글을 영상 시각에 맞춰 보여주는 Windows용 도구입니다.
 
 > [!IMPORTANT]
