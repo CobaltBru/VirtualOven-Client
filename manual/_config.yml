@@ -3,5 +3,6 @@ description: YouTube 라이브·아카이브를 위한 VirtualOven 화면 사용
 theme: jekyll-theme-cayman
 markdown: GFM
 lang: ko-KR
+sponsor_url: https://github.com/sponsors/CobaltBru
 exclude:
   - .idea
