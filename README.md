@@ -39,6 +39,10 @@
 
 VirtualOven은 종료된 공개 YouTube 라이브 또는 Premiere 아카이브를 재생할 때, 당시 디시인사이드에 올라온 중계 게시글을 영상 시각에 맞춰 보여주는 Windows용 도구입니다.
 
+<p align="center">
+  <a href="https://cobaltbru.github.io/VirtualOven-Client/"><strong>VirtualOven 사용 설명서</strong></a>
+</p>
+
 > [!IMPORTANT]
 > Chrome 확장프로그램 1.0.0이 정식 릴리즈되었습니다. 기존에 설치했던 확장프로그램을 삭제하고 [Chrome Web Store](https://chromewebstore.google.com/detail/virtualoven/hipjbaibdcfihbhohnlnpgegmanlhggj) 에서 재설치 해주세요.
 
