@@ -1,0 +1,72 @@
+name: 버그 리포트
+description: VirtualOven 오류 재현 절차와 로컬 오류 로그를 제출합니다.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        오류 로그는 자동으로 업로드되지 않습니다. 아래 내용을 확인하고 문제 발생 날짜의 파일 하나만 직접 첨부해 주세요.
+
+  - type: input
+    id: occurred_at
+    attributes:
+      label: 문제 발생 날짜와 시각
+      description: 가능한 범위에서 현지 시각과 시간대를 적어 주세요.
+      placeholder: 예) 2026-09-03 21:30 KST
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: VirtualOven 버전
+      description: Windows 클라이언트 정보 탭과 Chrome 확장 관리 화면에서 확인할 수 있습니다.
+      placeholder: 예) 클라이언트 1.5.0, 확장 1.5.0
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 재현 절차
+      description: 오류가 발생하기 전부터 순서대로 적어 주세요.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 예상한 동작
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: 실제 동작
+      description: 화면에 표시된 오류 문구가 있으면 함께 적어 주세요.
+    validations:
+      required: true
+
+  - type: textarea
+    id: support_log
+    attributes:
+      label: 오류 로그 파일
+      description: |
+        로그가 있으면 이 영역으로 파일을 끌어 놓아 첨부하세요. 기본 제출물은 문제 발생 날짜의 VirtualOven-YYYY-MM-DD.jsonl 하나입니다. 로그가 없어도 Issue를 제출할 수 있습니다.
+        날짜 파일이 없을 때만 오류 로그 폴더의 README.txt 또는 확장 popup 안내에 따라 current-context, emergency, extension JSONL 중 해당하는 대체 파일 하나를 첨부하세요.
+        private\crash와 private\installer의 원본 로그는 첨부하지 마세요.
+
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 공개 전 확인
+      options:
+        - label: 첨부 파일과 위 내용을 확인했으며, 공개 Issue에 비밀번호·쿠키·인증 정보 등 민감한 정보를 작성하지 않았습니다.
+          required: true
+        - label: 영상 관련 오류 로그에는 오류 당시의 source 제목·식별자·공개 reference와 실제 적용된 갤러리·수집 방식·싱크 context가 포함될 수 있음을 확인했습니다.
+          required: true
