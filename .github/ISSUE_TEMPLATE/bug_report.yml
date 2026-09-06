@@ -21,7 +21,7 @@ body:
     attributes:
       label: VirtualOven 버전
       description: Windows 클라이언트 정보 탭과 Chrome 확장 관리 화면에서 확인할 수 있습니다.
-      placeholder: 예) 클라이언트 1.5.0, 확장 1.5.0
+      placeholder: 예) 클라이언트 2.0.0, 확장 2.0.0
     validations:
       required: true
 
